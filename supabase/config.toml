@@ -1,0 +1,22 @@
+project_id = "njvgxgwdziisodurmdeo"
+
+[functions.ingest-comment]
+verify_jwt = false
+
+[functions.analyze-comment]
+verify_jwt = false
+
+[functions.ai-insights]
+verify_jwt = false
+
+[functions.business-recommendation]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.voice-analyze]
+verify_jwt = false
+
+[functions.seed-demo-data]
+verify_jwt = false
