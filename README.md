@@ -68,7 +68,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Hrushikesh M Kembhavi**
-
-Computer Science & Engineering Student | AI & Full Stack Enthusiast
+**Trupthi Niranjan**
+Information Science & Engineering Student | AI & Full Stack Enthusiast
 
